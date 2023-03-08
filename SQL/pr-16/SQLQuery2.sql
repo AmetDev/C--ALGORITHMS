@@ -1,0 +1,4 @@
+ALTER TABLE Детали
+ALTER COLUMN Цена DECIMAL(10,2)
+GO
+SELECT * from Детали;

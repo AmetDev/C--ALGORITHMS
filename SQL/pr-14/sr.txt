@@ -1,0 +1,17 @@
+
+CREATE FUNCTION FuncMeanValue3
+(
+	@Value1 int,
+	@Value2 int,
+	@Value3 int
+)
+RETURNS real
+AS
+BEGIN
+	DECLARE @Result real
+
+	SELECT @Result = (@Value1 + @Value2 + @Value3) / 3.0
+
+	RETURN @Result
+END
+GO

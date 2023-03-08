@@ -1,0 +1,1 @@
+ALTER USER UserWL WITH NAME = UserWLog;

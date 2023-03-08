@@ -1,0 +1,5 @@
+
+ALTER TABLE Поставщики
+ADD CONSTRAINT UQ_NAS123 UNIQUE (Адрес)
+GO
+SELECT * FROM Поставщики;

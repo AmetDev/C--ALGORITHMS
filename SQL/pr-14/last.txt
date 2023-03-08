@@ -1,0 +1,14 @@
+CREATE FUNCTION GetPrice
+(
+	@Price BIGINT
+)
+RETURNS TABLE
+AS
+RETURN
+(
+SELECT Детали.Цена, Поставки.Дата
+FROM Детали 
+INNER JOIN Поставки ON Детали.ID_детали = Поставки.ID_поставки
+WHERE (Детали.Цена > @Price)
+)
+GO

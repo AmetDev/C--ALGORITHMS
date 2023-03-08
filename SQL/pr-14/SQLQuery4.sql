@@ -1,0 +1,1 @@
+SELECT dbo.FuncMeanValue3(3,5,7)

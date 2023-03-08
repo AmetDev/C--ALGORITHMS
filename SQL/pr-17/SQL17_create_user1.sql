@@ -1,0 +1,3 @@
+CREATE LOGIN Augustine 
+WITH PASSWORD = '123'
+CREATE USER Augustine FOR LOGIN Augustine
