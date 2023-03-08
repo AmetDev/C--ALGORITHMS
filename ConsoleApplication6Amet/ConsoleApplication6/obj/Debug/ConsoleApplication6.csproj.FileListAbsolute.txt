@@ -1,6 +1,0 @@
-/home/amet/RiderProjects/ConsoleApplication6/ConsoleApplication6/bin/Debug/ConsoleApplication6.exe
-/home/amet/RiderProjects/ConsoleApplication6/ConsoleApplication6/bin/Debug/ConsoleApplication6.pdb
-/home/amet/RiderProjects/ConsoleApplication6/ConsoleApplication6/obj/Debug/ConsoleApplication6.csprojAssemblyReference.cache
-/home/amet/RiderProjects/ConsoleApplication6/ConsoleApplication6/obj/Debug/ConsoleApplication6.csproj.CoreCompileInputs.cache
-/home/amet/RiderProjects/ConsoleApplication6/ConsoleApplication6/obj/Debug/ConsoleApplication6.exe
-/home/amet/RiderProjects/ConsoleApplication6/ConsoleApplication6/obj/Debug/ConsoleApplication6.pdb

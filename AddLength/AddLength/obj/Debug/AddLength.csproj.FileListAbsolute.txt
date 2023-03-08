@@ -1,0 +1,6 @@
+/home/amet/RiderProjects/AddLength/AddLength/bin/Debug/AddLength.exe
+/home/amet/RiderProjects/AddLength/AddLength/bin/Debug/AddLength.pdb
+/home/amet/RiderProjects/AddLength/AddLength/obj/Debug/AddLength.csprojAssemblyReference.cache
+/home/amet/RiderProjects/AddLength/AddLength/obj/Debug/AddLength.csproj.CoreCompileInputs.cache
+/home/amet/RiderProjects/AddLength/AddLength/obj/Debug/AddLength.exe
+/home/amet/RiderProjects/AddLength/AddLength/obj/Debug/AddLength.pdb
