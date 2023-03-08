@@ -17,11 +17,11 @@ namespace ConsoleApplication6
             while (s != null)
             {
                 x = Convert.ToDouble(s);
-                y = Math.Sqrt((Math.Pow(x-1,3)+(1/x)));
+                y = Math.Sqrt((2/x)-Math.Pow((1+x),3));
                 f2.WriteLine("аргумент x = {0:F3} функция y = {1:e3}\n", x, y);
                 s = f1.ReadLine();
             }
-            f2.WriteLine("Составила Семиволос Дарья\n");
+            f2.WriteLine("Составил Сейдалиев Амет \n");
             f1.Close();
             f2.Close();
         }
