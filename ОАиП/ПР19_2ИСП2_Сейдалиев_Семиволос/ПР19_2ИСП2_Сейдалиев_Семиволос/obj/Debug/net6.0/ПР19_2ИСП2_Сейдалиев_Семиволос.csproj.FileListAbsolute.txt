@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\bin\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.exe
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\bin\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.deps.json
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\bin\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.runtimeconfig.json
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\bin\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.dll
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\bin\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.pdb
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\obj\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\obj\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\obj\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\obj\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\obj\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\obj\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.dll
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\obj\Debug\net6.0\refint\ПР19_2ИСП2_Сейдалиев_Семиволос.dll
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\obj\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.pdb
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\obj\Debug\net6.0\ПР19_2ИСП2_Сейдалиев_Семиволос.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ПР19_2ИСП2_Сейдалиев_Семиволос\ПР19_2ИСП2_Сейдалиев_Семиволос\obj\Debug\net6.0\ref\ПР19_2ИСП2_Сейдалиев_Семиволос.dll

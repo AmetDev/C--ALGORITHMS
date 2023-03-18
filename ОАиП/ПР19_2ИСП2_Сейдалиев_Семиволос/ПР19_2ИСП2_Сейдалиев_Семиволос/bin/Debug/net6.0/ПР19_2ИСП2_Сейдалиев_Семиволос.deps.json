@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ПР19_2ИСП2_Сейдалиев_Семиволос/1.0.0": {
+        "runtime": {
+          "ПР19_2ИСП2_Сейдалиев_Семиволос.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ПР19_2ИСП2_Сейдалиев_Семиволос/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
