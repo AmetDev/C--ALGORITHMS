@@ -1,0 +1,1 @@
+EXEC GetCarsByBrandAndYear @Brand = 'Audi', @Year = 2017

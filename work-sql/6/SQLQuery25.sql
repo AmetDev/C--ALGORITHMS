@@ -1,0 +1,1 @@
+EXEC CompareTODateWithOthers @TODate = '2021-08-01'
