@@ -1,0 +1,6 @@
+/run/media/amet/Новый_то_/new-git-repos/C--ALGORITHMS/EXAM-7_2/EXAM-7_2/bin/Debug/EXAM_7_2.exe
+/run/media/amet/Новый_то_/new-git-repos/C--ALGORITHMS/EXAM-7_2/EXAM-7_2/bin/Debug/EXAM_7_2.pdb
+/run/media/amet/Новый_то_/new-git-repos/C--ALGORITHMS/EXAM-7_2/EXAM-7_2/obj/Debug/EXAM-7_2.csprojAssemblyReference.cache
+/run/media/amet/Новый_то_/new-git-repos/C--ALGORITHMS/EXAM-7_2/EXAM-7_2/obj/Debug/EXAM-7_2.csproj.CoreCompileInputs.cache
+/run/media/amet/Новый_то_/new-git-repos/C--ALGORITHMS/EXAM-7_2/EXAM-7_2/obj/Debug/EXAM_7_2.exe
+/run/media/amet/Новый_то_/new-git-repos/C--ALGORITHMS/EXAM-7_2/EXAM-7_2/obj/Debug/EXAM_7_2.pdb
