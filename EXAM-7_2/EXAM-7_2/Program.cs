@@ -11,16 +11,19 @@ namespace EXAM_7_2
             {
                 y = Math.Sqrt(x+12);
                 Console.WriteLine("x < -10="+y);
+                Console.ReadKey();
             }
-            else if (x <= 10 && x <= -10)
+            else if (x <= 10 || x <= -10)
             {
                 y = 1/(x + 5);
                 Console.WriteLine("x <= 10 && x <= -10"+y);
+                Console.ReadKey();
             }
             else if (x>10)
             {
-                y = 1 /( (11 - x) + 5);
-                Console.WriteLine("x>10"+y);
+                y = 1 /(11 - x) + 5;
+                Console.WriteLine("x>10="+y);
+                Console.ReadKey();
             }
 
         }

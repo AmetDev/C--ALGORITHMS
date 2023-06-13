@@ -1,0 +1,24 @@
+﻿1CV8LOG(ver 2.0)
+01e7c963-0429-4f01-aaa3-6319b675a9d3
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-BH615F3",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",6},
+{4,"_$Data$_.Update",7},
+{5,b0038b69-4224-4e22-93fe-d352a22dd93d,"Документ.ПродажаТоваров",1},
+{4,"_$Data$_.Post",8},
+{4,"_$Transaction$_.Commit",9},
+{5,f4d871ab-993c-4665-b359-cd1e5e0e4b14,"Справочник.Товары",2},
+{3,"BackgroundJob",3},
+{4,"_$Data$_.Unpost",10},
+{5,aa2ef6af-fefd-4662-820b-910c30ada1c5,"Документ.ПоступлениеТоваров",3},
+{4,"_$Data$_.New",11},
+{4,"_$Transaction$_.Rollback",12}
